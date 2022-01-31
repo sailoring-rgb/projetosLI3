@@ -1,7 +1,7 @@
 
 # LI3
 
-Projeto de Laboratórios de Informática 3
+Projetos de Laboratórios de Informática 3
 
 Classificação do projeto em C: 15.90/20\
 Classificação do projeto em Java: 13.25/20
