@@ -10,6 +10,6 @@ Nota final: 15/20
 
 # Autores
 
-- Ana Murta (@AnaMurta10)
-- Ana Henriques (@AnaHenriques01)
-- Augusto Campos (@Gustominox)
+- Ana Murta
+- Ana Henriques
+- Augusto Campos
