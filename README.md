@@ -1,15 +1,15 @@
 
 # LI3
 
-Projetos de Laboratórios de Informática 3
+Projects accomplished in the scope of <b><i>Informatic Laboratories III 20/21</i></b>
 
-Classificação do projeto em C: 15.90/20\
-Classificação do projeto em Java: 13.25/20
+- <a href="https://github.com/sailoring-rgb/projetosLI3/tree/main/project_c">Project in C</a> Classification: 15.90/20
+- <a href="https://github.com/sailoring-rgb/projetosLI3/tree/main/project_java">Project in Java</a> Classification: 13.25/20
 
-Nota final: 15/20
+> `Final Classification: 15/20`
 
-# Autores
+# Authors
 
-- Ana Murta
-- Ana Henriques
-- Augusto Campos
+- <a href="https://github.com/AnaMurta10">Ana Murta</a>
+- <a href="https://github.com/sailoring-rgb">Ana Henriques</a>
+- <a href="https://github.com/Gustominox">Augusto Campos</a>
